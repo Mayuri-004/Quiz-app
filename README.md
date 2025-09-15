@@ -17,7 +17,8 @@ A simple **Quiz Application** built with **HTML, CSS, and JavaScript** featuring
 
 ## Demo
 
-![Quiz App Screenshot](C:\Users\mayuri\OneDrive\Pictures\Screenshots\Screenshot 2025-09-15 233622.png)  
+![Quiz App Screenshot](<img width="611" height="504" alt="Screenshot 2025-09-15 233622" src="https://github.com/user-attachments/assets/fbe83ac9-df9a-45d1-8612-89181d4a0f99" />
+)  
 
 
 
