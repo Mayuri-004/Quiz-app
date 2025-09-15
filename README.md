@@ -17,7 +17,7 @@ A simple **Quiz Application** built with **HTML, CSS, and JavaScript** featuring
 
 ## Demo
 
-![Quiz App Screenshot]("C:\Users\mayuri\OneDrive\Pictures\Screenshots\Screenshot 2025-09-15 233622.png")  
+![Quiz App Screenshot](C:\Users\mayuri\OneDrive\Pictures\Screenshots\Screenshot 2025-09-15 233622.png)  
 
 
 
